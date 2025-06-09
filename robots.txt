@@ -1,1 +1,1 @@
-Sitemap: https://beepboopstats.github.io/sitemap.xml
+Sitemap: https://www.beepboopstats.com/sitemap.xml
