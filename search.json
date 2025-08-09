@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "portfolio/website-schedule/index.html",
-    "href": "portfolio/website-schedule/index.html",
-    "title": "Scheduling Website",
-    "section": "",
-    "text": "Websites that allow scheduling appointments.\nClick here to go to the website."
-  },
-  {
     "objectID": "portfolio/application-derbylive/index.html",
     "href": "portfolio/application-derbylive/index.html",
     "title": "Application",
@@ -14,11 +7,18 @@
     "text": "Web application to gather and analyze data in real-time.\nClick here to try the app."
   },
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "BeepBoopStats",
+    "objectID": "portfolio/website-personal/index.html",
+    "href": "portfolio/website-personal/index.html",
+    "title": "Personal Website",
     "section": "",
-    "text": "Personal Website\n\n\n\nwebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApplication\n\n\n\ndashboard\n\napp\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScientific Dashboard\n\n\n\ndashboard\n\nscientific\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScheduling Website\n\n\n\nwebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Websites that fit your personal needs.\nClick here to go to the website."
+  },
+  {
+    "objectID": "assets/contact/index.html",
+    "href": "assets/contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can reach us via email or on Linkedin.\n\nWe offer free consulation!\nLet’s meet to discuss your needs for a free, 30 min consultation.\n\n\n\n\n\n\nClick me to schedule an appointment."
   },
   {
     "objectID": "about.html",
@@ -42,11 +42,11 @@
     "text": "Data Scientist/Engineer, J. Craig Venter Institute, Apr 2025 - present\nData Scientist/Engineer, UC San Diego, Aug 2023 - Mar 2025\nPostdoctoral Researcher, Stanford University, May 2022 - Oct 2023"
   },
   {
-    "objectID": "assets/contact/index.html",
-    "href": "assets/contact/index.html",
-    "title": "Contact",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "BeepBoopStats",
     "section": "",
-    "text": "You can reach us via email or on Linkedin.\n\nWe offer free consulation!\nLet’s meet to discuss your needs for a free, 30 min consultation.\n\n\n\n\n\n\nClick me to schedule an appointment."
+    "text": "Scientific Dashboard\n\n\n\ndashboard\n\nscientific\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal Website\n\n\n\nwebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScheduling Website\n\n\n\nwebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApplication\n\n\n\ndashboard\n\napp\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -63,17 +63,17 @@
     "text": "We specialize in providing data-driven solutions for real-time use.\nThis includes building tools such as:\n\nwebsites, for scheduling visits or monitoring your data regularly\ninteractive dashboards, to visualize/analyze your data in a flexible way\napplications, for real-time data gathering and analyses\nautomated data pipelines, from gathering data to visualizing patterns\n\nOther services include:\n\nstatistical analyses, to find patterns in data and devise interventions\ndata visualization, to identify complex patterns in data in a simple way\ndata workshops, for hands-on training for analyses and visualizations"
   },
   {
-    "objectID": "portfolio/website-personal/index.html",
-    "href": "portfolio/website-personal/index.html",
-    "title": "Personal Website",
-    "section": "",
-    "text": "Websites that fit your personal needs.\nClick here to go to the website."
-  },
-  {
     "objectID": "portfolio/dashboard-scientific/index.html",
     "href": "portfolio/dashboard-scientific/index.html",
     "title": "Scientific Dashboard",
     "section": "",
     "text": "Dashboard that enables analyses of multiple, large datasets.\nClick here to go to the dashboard."
+  },
+  {
+    "objectID": "portfolio/website-schedule/index.html",
+    "href": "portfolio/website-schedule/index.html",
+    "title": "Scheduling Website",
+    "section": "",
+    "text": "Websites that allow scheduling appointments.\nClick here to go to the website."
   }
 ]
