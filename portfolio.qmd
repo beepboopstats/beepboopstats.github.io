@@ -4,10 +4,74 @@ listing:
   contents: portfolio
   sort: "date desc"
   type: grid
-  categories: true
+  categories: false
   filter-ui: [title]
-  grid-columns: 4
+  grid-columns: 3
   grid-item-border: true
-  image-height: "200px"
+  image-height: "100px"
 page-layout: full
+format:
+  html:
+    toc: false
 ---
+
+# What do we do?
+
+Our work falls into one of the three topics.
+
+::: {.columns}
+
+::: {.column width="30%"}
+
+## Teaching
+::: {.callout-tip collapse=true}
+# Details
+
+We create and teach __workshops__ on several topics:
+
+* Programming in R language
+* Build software package in R
+* Web development
+* Statistical modelling
+* Bioinformatics and Network analyses
+* Timeseries analyses
+* Visualizing data into insights
+:::
+:::
+
+::: {.column width="3%"}
+:::
+
+::: {.column width="30%"}
+## Research
+::: {.callout-tip collapse=true}
+# Details
+
+We lead or collaborate on projects with researchers on varying topics:
+
+* __Social insect__ biology
+* Natural History of __birds__
+* Brain and cognitive development of __new-born__ and __adolescents__ humans
+:::
+:::
+
+::: {.column width="3%"}
+:::
+
+::: {.column width="30%"}
+## Consulting
+::: {.callout-tip collapse=true}
+# Details
+We solve problems, from design to implementation. Some examples:
+
+* Complete web ecosystem
+* Static spreadsheets -> Interactive websites
+* 
+:::
+:::
+
+:::
+
+___
+
+# Examples of our work

@@ -9,6 +9,7 @@ execute:
   
 website:
   title: "BeepBoopStats"
+  open-graph: true
   google-analytics: "G-LXSX23EQ95"
   reader-mode: false
   page-footer: © Beep Boop Stats
