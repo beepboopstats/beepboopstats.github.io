@@ -16,9 +16,30 @@
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
-    "title": "BeepBoopStats",
+    "title": "What do we do?",
     "section": "",
-    "text": "Scheduling Website\n\n\n\nwebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal Website\n\n\n\nwebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApplication\n\n\n\ndashboard\n\napp\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScientific Dashboard\n\n\n\ndashboard\n\nscientific\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Our work falls into one of the three topics.\n\n\n\n\n\n\n\n\n\n\nTipDetails\n\n\n\n\n\nWe create and teach workshops on several topics:\n\nProgramming in R language\nBuild software package in R\nWeb development\nStatistical modelling\nBioinformatics and Network analyses\nTimeseries analyses\nVisualizing data into insights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipDetails\n\n\n\n\n\nWe lead or collaborate on projects with researchers on varying topics:\n\nSocial insect biology\nNatural History of birds\nBrain and cognitive development of new-born and adolescents humans\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipDetails\n\n\n\n\n\nWe solve problems, from design to implementation. Some examples:\n\nComplete web ecosystem\nStatic spreadsheets -&gt; Interactive websites"
+  },
+  {
+    "objectID": "portfolio.html#teaching",
+    "href": "portfolio.html#teaching",
+    "title": "What do we do?",
+    "section": "",
+    "text": "TipDetails\n\n\n\n\n\nWe create and teach workshops on several topics:\n\nProgramming in R language\nBuild software package in R\nWeb development\nStatistical modelling\nBioinformatics and Network analyses\nTimeseries analyses\nVisualizing data into insights"
+  },
+  {
+    "objectID": "portfolio.html#research",
+    "href": "portfolio.html#research",
+    "title": "What do we do?",
+    "section": "",
+    "text": "TipDetails\n\n\n\n\n\nWe lead or collaborate on projects with researchers on varying topics:\n\nSocial insect biology\nNatural History of birds\nBrain and cognitive development of new-born and adolescents humans"
+  },
+  {
+    "objectID": "portfolio.html#consulting",
+    "href": "portfolio.html#consulting",
+    "title": "What do we do?",
+    "section": "",
+    "text": "TipDetails\n\n\n\n\n\nWe solve problems, from design to implementation. Some examples:\n\nComplete web ecosystem\nStatic spreadsheets -&gt; Interactive websites"
   },
   {
     "objectID": "assets/contact/index.html",
