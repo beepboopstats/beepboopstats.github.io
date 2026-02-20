@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "portfolio/dashboard-scientific/index.html",
+    "href": "portfolio/dashboard-scientific/index.html",
+    "title": "Scientific Dashboard",
+    "section": "",
+    "text": "Dashboard that enables analyses of multiple, large datasets.\nClick here to go to the dashboard."
+  },
+  {
+    "objectID": "portfolio/website-personal/index.html",
+    "href": "portfolio/website-personal/index.html",
+    "title": "Personal Website",
+    "section": "",
+    "text": "Websites that fit your personal needs.\nClick here to go to the website."
+  },
+  {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
     "title": "What do we do?",
@@ -28,20 +42,6 @@
     "text": "TipDetails\n\n\n\n\n\nWe solve problems, from design to implementation. Some examples:\n\nComplete web ecosystem\nStatic spreadsheets -&gt; Interactive websites"
   },
   {
-    "objectID": "portfolio/website-schedule/index.html",
-    "href": "portfolio/website-schedule/index.html",
-    "title": "Scheduling Website",
-    "section": "",
-    "text": "Websites that allow scheduling appointments.\nClick here to go to the website."
-  },
-  {
-    "objectID": "portfolio/dashboard-scientific/index.html",
-    "href": "portfolio/dashboard-scientific/index.html",
-    "title": "Scientific Dashboard",
-    "section": "",
-    "text": "Dashboard that enables analyses of multiple, large datasets.\nClick here to go to the dashboard."
-  },
-  {
     "objectID": "assets/contact/index.html",
     "href": "assets/contact/index.html",
     "title": "Contact",
@@ -63,20 +63,6 @@
     "text": "We specialize in providing data-driven solutions for real-time use.\nThis includes building tools such as:\n\nwebsites, for scheduling visits or monitoring your data regularly\ninteractive dashboards, to visualize/analyze your data in a flexible way\napplications, for real-time data gathering and analyses\nautomated data pipelines, from gathering data to visualizing patterns\n\nOther services include:\n\nstatistical analyses, to find patterns in data and devise interventions\ndata visualization, to identify complex patterns in data in a simple way\ndata workshops, for hands-on training for analyses and visualizations"
   },
   {
-    "objectID": "portfolio/application-derbylive/index.html",
-    "href": "portfolio/application-derbylive/index.html",
-    "title": "Application",
-    "section": "",
-    "text": "Web application to gather and analyze data in real-time.\nClick here to try the app."
-  },
-  {
-    "objectID": "portfolio/website-personal/index.html",
-    "href": "portfolio/website-personal/index.html",
-    "title": "Personal Website",
-    "section": "",
-    "text": "Websites that fit your personal needs.\nClick here to go to the website."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "BeepBoopStats",
@@ -96,5 +82,19 @@
     "title": "BeepBoopStats",
     "section": "",
     "text": "Data Scientist/Engineer, J. Craig Venter Institute, Apr 2025 - present\nData Scientist/Engineer, UC San Diego, Aug 2023 - Mar 2025\nPostdoctoral Researcher, Stanford University, May 2022 - Oct 2023"
+  },
+  {
+    "objectID": "portfolio/website-schedule/index.html",
+    "href": "portfolio/website-schedule/index.html",
+    "title": "Scheduling Website",
+    "section": "",
+    "text": "Websites that allow scheduling appointments.\nClick here to go to the website."
+  },
+  {
+    "objectID": "portfolio/application-derbylive/index.html",
+    "href": "portfolio/application-derbylive/index.html",
+    "title": "Application",
+    "section": "",
+    "text": "Web application to gather and analyze data in real-time.\nClick here to try the app."
   }
 ]
