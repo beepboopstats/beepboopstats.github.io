@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "portfolio/website-personal/index.html",
-    "href": "portfolio/website-personal/index.html",
-    "title": "Personal Website",
+    "objectID": "assets/contact/index.html",
+    "href": "assets/contact/index.html",
+    "title": "Contact",
     "section": "",
-    "text": "Websites that fit your personal needs.\nClick here to go to the website."
+    "text": "You can reach us via email or on Linkedin.\n\nWe offer free consulation!\nLet’s meet to discuss your needs for a free, 30 min consultation.\n\n\n\n\n\n\nTipClick me to schedule an appointment."
   },
   {
-    "objectID": "portfolio/dashboard-scientific/index.html",
-    "href": "portfolio/dashboard-scientific/index.html",
-    "title": "Scientific Dashboard",
+    "objectID": "portfolio/website-schedule/index.html",
+    "href": "portfolio/website-schedule/index.html",
+    "title": "Scheduling Website",
     "section": "",
-    "text": "Dashboard that enables analyses of multiple, large datasets.\nClick here to go to the dashboard."
+    "text": "Websites that allow scheduling appointments.\nClick here to go to the website."
+  },
+  {
+    "objectID": "portfolio/application-derbylive/index.html",
+    "href": "portfolio/application-derbylive/index.html",
+    "title": "Application",
+    "section": "",
+    "text": "Web application to gather and analyze data in real-time.\nClick here to try the app."
   },
   {
     "objectID": "about.html",
@@ -33,27 +40,6 @@
     "title": "BeepBoopStats",
     "section": "",
     "text": "Data Scientist/Engineer, J. Craig Venter Institute, Apr 2025 - present\nData Scientist/Engineer, UC San Diego, Aug 2023 - Mar 2025\nPostdoctoral Researcher, Stanford University, May 2022 - Oct 2023"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "BeepBoopStats",
-    "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nWe specialize in providing data-driven solutions for real-time use.\nThis includes building tools such as:\n\nwebsites, for scheduling visits or monitoring your data regularly\ninteractive dashboards, to visualize/analyze your data in a flexible way\napplications, for real-time data gathering and analyses\nautomated data pipelines, from gathering data to visualizing patterns\n\nOther services include:\n\nstatistical analyses, to find patterns in data and devise interventions\ndata visualization, to identify complex patterns in data in a simple way\ndata workshops, for hands-on training for analyses and visualizations"
-  },
-  {
-    "objectID": "index.html#your-data.-our-solutions.",
-    "href": "index.html#your-data.-our-solutions.",
-    "title": "BeepBoopStats",
-    "section": "",
-    "text": "We specialize in providing data-driven solutions for real-time use.\nThis includes building tools such as:\n\nwebsites, for scheduling visits or monitoring your data regularly\ninteractive dashboards, to visualize/analyze your data in a flexible way\napplications, for real-time data gathering and analyses\nautomated data pipelines, from gathering data to visualizing patterns\n\nOther services include:\n\nstatistical analyses, to find patterns in data and devise interventions\ndata visualization, to identify complex patterns in data in a simple way\ndata workshops, for hands-on training for analyses and visualizations"
-  },
-  {
-    "objectID": "assets/contact/index.html",
-    "href": "assets/contact/index.html",
-    "title": "Contact",
-    "section": "",
-    "text": "You can reach us via email or on Linkedin.\n\nWe offer free consulation!\nLet’s meet to discuss your needs for a free, 30 min consultation.\n\n\n\n\n\n\nTipClick me to schedule an appointment."
   },
   {
     "objectID": "portfolio.html",
@@ -84,17 +70,31 @@
     "text": "TipDetails\n\n\n\n\n\nWe solve problems, from design to implementation. Some examples:\n\nComplete web ecosystem\nStatic spreadsheets -&gt; Interactive websites"
   },
   {
-    "objectID": "portfolio/website-schedule/index.html",
-    "href": "portfolio/website-schedule/index.html",
-    "title": "Scheduling Website",
+    "objectID": "portfolio/website-personal/index.html",
+    "href": "portfolio/website-personal/index.html",
+    "title": "Personal Website",
     "section": "",
-    "text": "Websites that allow scheduling appointments.\nClick here to go to the website."
+    "text": "Websites that fit your personal needs.\nClick here to go to the website."
   },
   {
-    "objectID": "portfolio/application-derbylive/index.html",
-    "href": "portfolio/application-derbylive/index.html",
-    "title": "Application",
+    "objectID": "portfolio/dashboard-scientific/index.html",
+    "href": "portfolio/dashboard-scientific/index.html",
+    "title": "Scientific Dashboard",
     "section": "",
-    "text": "Web application to gather and analyze data in real-time.\nClick here to try the app."
+    "text": "Dashboard that enables analyses of multiple, large datasets.\nClick here to go to the dashboard."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BeepBoopStats",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nWe specialize in providing data-driven solutions for real-time use.\nThis includes building tools such as:\n\nwebsites, for scheduling visits or monitoring your data regularly\ninteractive dashboards, to visualize/analyze your data in a flexible way\napplications, for real-time data gathering and analyses\nautomated data pipelines, from gathering data to visualizing patterns\n\nOther services include:\n\nstatistical analyses, to find patterns in data and devise interventions\ndata visualization, to identify complex patterns in data in a simple way\ndata workshops, for hands-on training for analyses and visualizations"
+  },
+  {
+    "objectID": "index.html#your-data.-our-solutions.",
+    "href": "index.html#your-data.-our-solutions.",
+    "title": "BeepBoopStats",
+    "section": "",
+    "text": "We specialize in providing data-driven solutions for real-time use.\nThis includes building tools such as:\n\nwebsites, for scheduling visits or monitoring your data regularly\ninteractive dashboards, to visualize/analyze your data in a flexible way\napplications, for real-time data gathering and analyses\nautomated data pipelines, from gathering data to visualizing patterns\n\nOther services include:\n\nstatistical analyses, to find patterns in data and devise interventions\ndata visualization, to identify complex patterns in data in a simple way\ndata workshops, for hands-on training for analyses and visualizations"
   }
 ]
