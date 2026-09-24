@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "BeepBoopStats",
+    "section": "",
+    "text": "personal website\n  \n\n  \n  \n\n\nBiplabendu Das, fondly called BILLU, obtained his Ph.D. in bioinformatics, following which he did postdoctoral research at Stanford University.\nBillu works as a Data Scientist / Data Engineer for two nationwide, longitudinal studies aimed at understanding brain & cognitive development in adolescents (ABCD Study) & newborn babies (HBCD Study).\n\n\n\n\nData Scientist/Engineer, J. Craig Venter Institute, Apr 2025 - present\nData Scientist/Engineer, UC San Diego, Aug 2023 - Mar 2025\nPostdoctoral Researcher, Stanford University, May 2022 - Oct 2023"
+  },
+  {
+    "objectID": "about.html#who-is-working-with-you",
+    "href": "about.html#who-is-working-with-you",
+    "title": "BeepBoopStats",
+    "section": "",
+    "text": "Biplabendu Das, fondly called BILLU, obtained his Ph.D. in bioinformatics, following which he did postdoctoral research at Stanford University.\nBillu works as a Data Scientist / Data Engineer for two nationwide, longitudinal studies aimed at understanding brain & cognitive development in adolescents (ABCD Study) & newborn babies (HBCD Study)."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "BeepBoopStats",
+    "section": "",
+    "text": "Data Scientist/Engineer, J. Craig Venter Institute, Apr 2025 - present\nData Scientist/Engineer, UC San Diego, Aug 2023 - Mar 2025\nPostdoctoral Researcher, Stanford University, May 2022 - Oct 2023"
+  },
+  {
     "objectID": "assets/contact/index.html",
     "href": "assets/contact/index.html",
     "title": "Contact",
@@ -7,39 +28,11 @@
     "text": "You can reach us via email or on Linkedin.\n\nWe offer free consulation!\nLet’s meet to discuss your needs for a free, 30 min consultation.\n\n\n\n\n\n\nTipClick me to schedule an appointment."
   },
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "What do we do?",
+    "objectID": "portfolio/application-derbylive/index.html",
+    "href": "portfolio/application-derbylive/index.html",
+    "title": "Application",
     "section": "",
-    "text": "Our work falls into one of the three topics.\n\n\n\n\n\n\n\n\n\n\nTipDetails\n\n\n\n\n\nWe create and teach workshops on several topics:\n\nProgramming in R language\nBuild software package in R\nWeb development\nStatistical modelling\nBioinformatics and Network analyses\nTimeseries analyses\nVisualizing data into insights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipDetails\n\n\n\n\n\nWe lead or collaborate on projects with researchers on varying topics:\n\nSocial insect biology\nNatural History of birds\nBrain and cognitive development of new-born and adolescents humans\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipDetails\n\n\n\n\n\nWe solve problems, from design to implementation. Some examples:\n\nComplete web ecosystem\nStatic spreadsheets -&gt; Interactive websites"
-  },
-  {
-    "objectID": "portfolio.html#teaching",
-    "href": "portfolio.html#teaching",
-    "title": "What do we do?",
-    "section": "",
-    "text": "TipDetails\n\n\n\n\n\nWe create and teach workshops on several topics:\n\nProgramming in R language\nBuild software package in R\nWeb development\nStatistical modelling\nBioinformatics and Network analyses\nTimeseries analyses\nVisualizing data into insights"
-  },
-  {
-    "objectID": "portfolio.html#research",
-    "href": "portfolio.html#research",
-    "title": "What do we do?",
-    "section": "",
-    "text": "TipDetails\n\n\n\n\n\nWe lead or collaborate on projects with researchers on varying topics:\n\nSocial insect biology\nNatural History of birds\nBrain and cognitive development of new-born and adolescents humans"
-  },
-  {
-    "objectID": "portfolio.html#consulting",
-    "href": "portfolio.html#consulting",
-    "title": "What do we do?",
-    "section": "",
-    "text": "TipDetails\n\n\n\n\n\nWe solve problems, from design to implementation. Some examples:\n\nComplete web ecosystem\nStatic spreadsheets -&gt; Interactive websites"
-  },
-  {
-    "objectID": "portfolio/website-personal/index.html",
-    "href": "portfolio/website-personal/index.html",
-    "title": "Personal Website",
-    "section": "",
-    "text": "Websites that fit your personal needs.\nClick here to go to the website."
+    "text": "Web application to gather and analyze data in real-time.\nClick here to try the app."
   },
   {
     "objectID": "portfolio/website-schedule/index.html",
@@ -70,31 +63,38 @@
     "text": "Dashboard that enables analyses of multiple, large datasets.\nClick here to go to the dashboard."
   },
   {
-    "objectID": "portfolio/application-derbylive/index.html",
-    "href": "portfolio/application-derbylive/index.html",
-    "title": "Application",
+    "objectID": "portfolio/website-personal/index.html",
+    "href": "portfolio/website-personal/index.html",
+    "title": "Personal Website",
     "section": "",
-    "text": "Web application to gather and analyze data in real-time.\nClick here to try the app."
+    "text": "Websites that fit your personal needs.\nClick here to go to the website."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "BeepBoopStats",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "What do we do?",
     "section": "",
-    "text": "personal website\n  \n\n  \n  \n\n\nBiplabendu Das, fondly called BILLU, obtained his Ph.D. in bioinformatics, following which he did postdoctoral research at Stanford University.\nBillu works as a Data Scientist / Data Engineer for two nationwide, longitudinal studies aimed at understanding brain & cognitive development in adolescents (ABCD Study) & newborn babies (HBCD Study).\n\n\n\n\nData Scientist/Engineer, J. Craig Venter Institute, Apr 2025 - present\nData Scientist/Engineer, UC San Diego, Aug 2023 - Mar 2025\nPostdoctoral Researcher, Stanford University, May 2022 - Oct 2023"
+    "text": "Our work falls into one of the three topics.\n\n\n\n\n\n\n\n\n\n\nTipDetails\n\n\n\n\n\nWe create and teach workshops on several topics:\n\nProgramming in R language\nBuild software package in R\nWeb development\nStatistical modelling\nBioinformatics and Network analyses\nTimeseries analyses\nVisualizing data into insights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipDetails\n\n\n\n\n\nWe lead or collaborate on projects with researchers on varying topics:\n\nSocial insect biology\nNatural History of birds\nBrain and cognitive development of new-born and adolescents humans\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipDetails\n\n\n\n\n\nWe solve problems, from design to implementation. Some examples:\n\nComplete web ecosystem\nStatic spreadsheets -&gt; Interactive websites"
   },
   {
-    "objectID": "about.html#who-is-working-with-you",
-    "href": "about.html#who-is-working-with-you",
-    "title": "BeepBoopStats",
+    "objectID": "portfolio.html#teaching",
+    "href": "portfolio.html#teaching",
+    "title": "What do we do?",
     "section": "",
-    "text": "Biplabendu Das, fondly called BILLU, obtained his Ph.D. in bioinformatics, following which he did postdoctoral research at Stanford University.\nBillu works as a Data Scientist / Data Engineer for two nationwide, longitudinal studies aimed at understanding brain & cognitive development in adolescents (ABCD Study) & newborn babies (HBCD Study)."
+    "text": "TipDetails\n\n\n\n\n\nWe create and teach workshops on several topics:\n\nProgramming in R language\nBuild software package in R\nWeb development\nStatistical modelling\nBioinformatics and Network analyses\nTimeseries analyses\nVisualizing data into insights"
   },
   {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "BeepBoopStats",
+    "objectID": "portfolio.html#research",
+    "href": "portfolio.html#research",
+    "title": "What do we do?",
     "section": "",
-    "text": "Data Scientist/Engineer, J. Craig Venter Institute, Apr 2025 - present\nData Scientist/Engineer, UC San Diego, Aug 2023 - Mar 2025\nPostdoctoral Researcher, Stanford University, May 2022 - Oct 2023"
+    "text": "TipDetails\n\n\n\n\n\nWe lead or collaborate on projects with researchers on varying topics:\n\nSocial insect biology\nNatural History of birds\nBrain and cognitive development of new-born and adolescents humans"
+  },
+  {
+    "objectID": "portfolio.html#consulting",
+    "href": "portfolio.html#consulting",
+    "title": "What do we do?",
+    "section": "",
+    "text": "TipDetails\n\n\n\n\n\nWe solve problems, from design to implementation. Some examples:\n\nComplete web ecosystem\nStatic spreadsheets -&gt; Interactive websites"
   }
 ]
