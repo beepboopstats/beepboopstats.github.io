@@ -8,16 +8,6 @@ listing:
     categories: true
     filter-ui: true
     sort-ui: false
-  - id: tools
-    contents: tools.yml
-    type: table
-    sort: false
-    fields: [title, description, language]
-    field-display-names:
-      title: "Repository"
-      language: "Language"
-    filter-ui: false
-    sort-ui: false
 page-layout: full
 format:
   html:
@@ -55,7 +45,74 @@ Problems solved from design to implementation, from a complete web presence to t
 
 ## Open-source tools
 
-Code we've published that isn't tied to a website.
+Public code that isn't tied to a website, most recently updated first. This list is refreshed from GitHub every day.
 
-::: {#tools}
-:::
+```{r}
+#| label: repo-table
+# Public, non-fork, non-archived repos from both GitHub accounts, fetched on every
+# render (CI renders daily). Repos already shown as projects are left out.
+# If the API call fails, the last saved copy in assets/data/repos.json is used.
+owners <- c("beepboopstats", "biplabendu")
+exclude <- c(
+  owners, "babyshower", "my_dummy_website", # profile and personal repos
+  "beepboopstats.github.io", "gha-workflows", "manuscripts" # this site, build config, papers
+)
+snapshot <- "assets/data/repos.json"
+fields <- c("name", "html_url", "description", "language", "pushed_at", "fork", "archived")
+
+fetch_repos <- function(owner) {
+  token <- Sys.getenv("GITHUB_PAT", Sys.getenv("GITHUB_TOKEN"))
+  headers <- c(Accept = "application/vnd.github+json")
+  if (nzchar(token)) headers <- c(headers, Authorization = paste("Bearer", token))
+  con <- url(
+    sprintf("https://api.github.com/users/%s/repos?per_page=100&type=owner", owner),
+    headers = headers
+  )
+  on.exit(close(con))
+  jsonlite::fromJSON(paste(readLines(con, warn = FALSE), collapse = ""))[, fields]
+}
+
+repos <- tryCatch(
+  {
+    r <- do.call(rbind, lapply(owners, fetch_repos))
+    # write-then-rename so a concurrent render (e.g. quarto preview) never reads a half-written file
+    tmp <- tempfile(tmpdir = dirname(snapshot), fileext = ".json")
+    jsonlite::write_json(r, tmp, pretty = TRUE)
+    file.rename(tmp, snapshot)
+    r
+  },
+  error = function(e) {
+    message("GitHub API failed (", conditionMessage(e), "); using ", snapshot)
+    jsonlite::read_json(snapshot, simplifyVector = TRUE)
+  }
+)
+
+project_repos <- basename(unlist(lapply(yaml::read_yaml("projects.yml"), `[[`, "code")))
+keep <- !repos$fork & !repos$archived & !repos$name %in% c(exclude, project_repos)
+tools <- repos[keep, ]
+tools <- tools[order(tools$pushed_at, decreasing = TRUE), ]
+
+# Repos without a GitHub description get a generic one based on their language
+missing <- is.na(tools$description) | !nzchar(trimws(tools$description))
+tools$description[missing] <- ifelse(
+  is.na(tools$language[missing]),
+  "Code repository on GitHub.",
+  paste0("Code repository on GitHub, written mainly in ", tools$language[missing], ".")
+)
+
+htmltools::tags$table(
+  class = "table repo-table",
+  htmltools::tags$thead(htmltools::tags$tr(
+    lapply(c("Repository", "Description", "Language", "Updated"), htmltools::tags$th)
+  )),
+  htmltools::tags$tbody(lapply(seq_len(nrow(tools)), function(i) {
+    repo <- tools[i, ]
+    htmltools::tags$tr(
+      htmltools::tags$td(htmltools::tags$a(href = repo$html_url, repo$name)),
+      htmltools::tags$td(trimws(repo$description)),
+      htmltools::tags$td(if (is.na(repo$language)) "" else repo$language),
+      htmltools::tags$td(format(as.Date(substr(repo$pushed_at, 1, 10)), "%b %Y"))
+    )
+  }))
+)
+```
