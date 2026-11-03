@@ -1,77 +1,61 @@
 ---
-title: ""
-listing: 
-  contents: portfolio
-  sort: "date desc"
-  type: grid
-  categories: false
-  filter-ui: [title]
-  grid-columns: 3
-  grid-item-border: true
-  image-height: "100px"
+title: "Our work"
+listing:
+  - id: projects
+    contents: projects.yml
+    template: assets/listings/projects.ejs
+    sort: false
+    categories: true
+    filter-ui: true
+    sort-ui: false
+  - id: tools
+    contents: tools.yml
+    type: table
+    sort: false
+    fields: [title, description, language]
+    field-display-names:
+      title: "Repository"
+      language: "Language"
+    filter-ui: false
+    sort-ui: false
 page-layout: full
 format:
   html:
     toc: false
 ---
 
-# What do we do?
+Websites, dashboards, apps and workshops built for research teams and communities. Each project links to the live site and, when the code is public, to its repository.
 
-Our work falls into one of the three topics.
+::: {.areas}
 
-::: {.columns}
+::: {}
+### Teaching
 
-::: {.column width="30%"}
-
-## Teaching
-::: {.callout-tip collapse=true}
-# Details
-
-We create and teach __workshops__ on several topics:
-
-* Programming in R language
-* Build software package in R
-* Web development
-* Statistical modelling
-* Bioinformatics and Network analyses
-* Timeseries analyses
-* Visualizing data into insights
-:::
+Workshops on programming in R, building R packages, web development, statistical modelling, bioinformatics, network and time-series analysis, and data visualization.
 :::
 
-::: {.column width="3%"}
+::: {}
+### Research
+
+Projects led or co-led with researchers studying social insects, the natural history of birds, and brain and cognitive development in newborns and adolescents.
 :::
 
-::: {.column width="30%"}
-## Research
-::: {.callout-tip collapse=true}
-# Details
+::: {}
+### Consulting
 
-We lead or collaborate on projects with researchers on varying topics:
-
-* __Social insect__ biology
-* Natural History of __birds__
-* Brain and cognitive development of __new-born__ and __adolescents__ humans
-:::
-:::
-
-::: {.column width="3%"}
-:::
-
-::: {.column width="30%"}
-## Consulting
-::: {.callout-tip collapse=true}
-# Details
-We solve problems, from design to implementation. Some examples:
-
-* Complete web ecosystem
-* Static spreadsheets -> Interactive websites
-* 
-:::
+Problems solved from design to implementation, from a complete web presence to turning static spreadsheets into interactive websites.
 :::
 
 :::
 
-___
+## Projects
 
-# Examples of our work
+::: {#projects}
+:::
+
+## Open-source tools
+
+Code we've published that isn't tied to a website.
+
+::: {#tools}
+:::

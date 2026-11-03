@@ -6,12 +6,23 @@ about:
   # image-shape: round
   image: "assets/img/my_image.png"
   links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/beepboopstats
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/biplabendu
     - icon: envelope
       text: Email
-      href: "mailto:beepboopstats@gmail.com"  
+      href: "mailto:beepboopstats@gmail.com"
+listing:
+  id: recent-work
+  contents: projects.yml
+  template: assets/listings/projects.ejs
+  sort: false
+  max-items: 3
+  filter-ui: false
+  sort-ui: false
 format:
   html:
     toc: false
@@ -25,24 +36,31 @@ format:
 <!-- Calendly badge widget end -->
 
 ::: {#about-block}
-## Your Data. Our Solutions.
+## Websites, dashboards and workshops for research teams
 
-__We specialize in providing data-driven solutions for real-time use.__
+__We turn research data into tools people use every day, built in R.__
 
-This includes building tools such as:
+We build:
 
-- __websites__, for scheduling visits or monitoring your data regularly
-- __interactive dashboards__, to visualize/analyze your data in a flexible way
-- __applications__, for real-time data gathering and analyses
-- __automated data pipelines__, from gathering data to visualizing patterns
+- __websites__, for scheduling visits or keeping an eye on your data
+- __interactive dashboards__, to explore and analyze your data flexibly
+- __applications__, for gathering and analyzing data in real time
+- __automated data pipelines__, from collecting data to visualizing patterns
 
-Other services include:
+We also offer:
 
-- __statistical analyses__, to find patterns in data and devise interventions
-- __data visualization__, to identify complex patterns in data in a simple way
-- __data workshops__, for hands-on training for analyses and visualizations
+- __statistical analyses__, to find patterns in data and plan interventions
+- __data visualization__, to make complex patterns easy to see
+- __data workshops__, with hands-on training in analysis and visualization
 
-::: 
+:::
+
+## Recent work {.recent-work-heading}
+
+::: {#recent-work}
+:::
+
+[See all projects and open-source tools](portfolio.qmd)
 
 <!-- ```{r} -->
 <!-- dttm <- Sys.time() |>  -->

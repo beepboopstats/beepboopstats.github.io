@@ -15,6 +15,8 @@ $info: #DEEBF7;
 $warning: #FF7F00;
 $danger: #E31A1C;
 
+/*-- scss:rules --*/
+
 code {
   font-size: 0.9rem  !important;
 }
@@ -79,9 +81,105 @@ div.quarto-about-trestles {
 }
 
 
-// Listings
-@media (max-width: 900px) {
-  .quarto-grid-item.card.h-100.card-left p.card-img-top {
-    display: none !important;
+// Teaching / Research / Consulting summary (stacks on small screens)
+.areas {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem 2.5rem;
+  margin: 2rem 0 1rem;
+
+  h3 {
+    margin-top: 0;
+    padding-top: 0.6rem;
+    border-top: 2px solid $secondary;
+    font-size: 1.2rem;
   }
+
+  p {
+    max-width: 60ch;
+  }
+}
+
+// Project listing (assets/listings/projects.ejs): screenshot left, text right
+.project-list {
+  display: grid;
+  gap: 2.5rem;
+  margin-top: 1.5rem;
+}
+
+.project {
+  display: grid;
+  grid-template-columns: minmax(0, 22rem) minmax(0, 1fr);
+  gap: 1.75rem;
+  align-items: start;
+
+  @media (max-width: 767.98px) {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.75rem;
+  }
+}
+
+.project-shot img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  object-position: top left;
+  border: 1px solid $secondary;
+  border-radius: 4px;
+}
+
+.project-title {
+  margin-top: 0;
+  font-size: 1.3rem;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover, &:focus-visible {
+      text-decoration: underline;
+    }
+  }
+}
+
+.project-desc {
+  max-width: 60ch;
+  margin-bottom: 0.5rem;
+}
+
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+
+  .listing-category {
+    padding: 0.1rem 0.55rem;
+    border: 1px solid $secondary;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    cursor: pointer;
+
+    &:hover {
+      background-color: $secondary;
+      color: black;
+    }
+  }
+}
+
+// Home page "Recent work" section, below the about block
+.recent-work-heading {
+  margin-top: 3rem;
+}
+
+#recent-work {
+  margin-bottom: 1.5rem;
 }

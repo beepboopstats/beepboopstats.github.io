@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  # only .qmd pages; keeps CLAUDE.md and other .md files off the site
+  render:
+    - "**/*.qmd"
 
 execute:
   # freeze: auto
@@ -26,6 +29,10 @@ website:
         file: about.qmd
       - text: "Contact"
         file: assets/contact/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/beepboopstats
+        aria-label: BeepBoopStats on GitHub
     css: assets/css/styles.scss
 
 format:
@@ -37,6 +44,7 @@ format:
       dark: 
         - darkly
         - assets/css/styles.scss
+        - assets/css/dark.scss
     fontsize: 1.1em
     page-layout: full
     toc: true
