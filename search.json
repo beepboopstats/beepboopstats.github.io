@@ -1,17 +1,45 @@
 [
   {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Our work",
+    "section": "",
+    "text": "Websites, dashboards, apps and workshops built for research teams and communities. Each project links to the live site and, when the code is public, to its repository."
+  },
+  {
+    "objectID": "portfolio.html#projects",
+    "href": "portfolio.html#projects",
+    "title": "Our work",
+    "section": "Projects",
+    "text": "Projects\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nR + Statistics Workshop\nA four-part series teaching R and statistics with longitudinal data, for research staff on the ABCD Study. No programming experience assumed.\n\nVisit site\nView code\n\n\n\n\nTeaching\n\nWebsite\n\n\n\n\n\n\n\n\n\nEco-Evo Jobs\nA searchable view of ecology and evolution job postings from the ecoevojobs.net spreadsheet, refreshed every day.\n\nVisit site\nView code\n\n\n\n\nResearch\n\nDashboard\n\n\n\n\n\n\n\n\n\nIUSSI-NAS DEIJ Committee\nWebsite for the diversity, equity, inclusion and justice committee of the IUSSI North American Section, with outreach programs and resources.\n\nVisit site\nView code\n\n\n\n\nConsulting\n\nWebsite\n\n\n\n\n\n\n\n\n\nDerby Live\nA Shiny app for recording roller derby stats during a game: scores, jammers, blockers and penalties, charted jam by jam.\n\nVisit app\nView code\n\n\n\n\nConsulting\n\nApp\n\n\n\n\n\n\n\n\n\nRoller Derby Stats\nGame statistics from the WFTDA Statsbook, plus a tracker that checks player eligibility before upcoming games.\n\nVisit site\nView code\n\n\n\n\nConsulting\n\nWebsite\n\n\n\n\n\n\n\n\n\nTree Rings\nAnalysis and visualization of tree ring data sets, in collaboration with Alicia Formanack and Kiona Ogle.\n\nVisit site\nView code\n\n\n\n\nResearch\n\nWebsite\n\n\n\n\n\n\n\n\n\nAnt Data in SRA\nLists every ant genus and counts its sequencing data sets in the Sequence Read Archive. Rebuilt daily from Wikipedia and NCBI.\n\nVisit site\nView code\n\n\n\n\nResearch\n\nWebsite\n\n\n\n\n\n\n\n\n\nBird Nesting Data\nClutch size, incubation and nestling periods for North American birds from All About Birds, in a table you can sort, filter and download.\n\nVisit site\nView code\n\n\n\n\nResearch\n\nWebsite\n\n\n\n\n\n\n\n\n\nAnt Gene Expression Dashboard\nExplore daily rhythms in gene expression across castes of the carpenter ant Camponotus floridanus, one gene at a time.\n\nVisit site\n\n\n\n\n\nResearch\n\nDashboard\n\n\n\n\n\n\n\n\n\nWiFi Buddy\nTest the wifi at a cafe or public space and share the speed, so others know where to work.\n\nVisit app\nView code\n\n\n\n\nApp\n\n\n\n\n\n\n\n\n\nScheduling Website\nA starter template for a personal website with appointment booking.\n\nVisit site\nView code\n\n\n\n\nConsulting\n\nWebsite\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "portfolio.html#open-source-tools",
+    "href": "portfolio.html#open-source-tools",
+    "title": "Our work",
+    "section": "Open-source tools",
+    "text": "Open-source tools\nCode we’ve published that isn’t tied to a website.\n\n\n\n\n\n\nRepository\n\n\n\nDescription\n\n\n\nLanguage\n\n\n\n\n\n\n\n\ntimecourseRnaseq\n\n\nR package for analyzing and visualizing time-course RNA-seq data.\n\n\nR\n\n\n\n\n\n\nshiny-chatbot-dictionary-abcd\n\n\nShiny app that searches the ABCD Study data dictionary using semantic search.\n\n\nR\n\n\n\n\n\n\nabcd-dictionary-chatbot\n\n\nRetrieval-augmented LLM chatbot for exploring the ABCD Study data dictionary.\n\n\nPython\n\n\n\n\n\n\nrecipe-chatbot\n\n\nA local retrieval-augmented chat app in R, built with Ollama and ChromaDB.\n\n\nR\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "assets/contact/index.html",
+    "href": "assets/contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email us at beepboopstats@gmail.com, or find us on LinkedIn and GitHub.\n\nBook a free consultation\nPick a time below for a free 30-minute call about your project."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "BeepBoopStats",
     "section": "",
-    "text": "personal website\n  \n\n  \n  \n\n\nBiplabendu Das, fondly called BILLU, obtained his Ph.D. in bioinformatics, following which he did postdoctoral research at Stanford University.\nBillu works as a Data Scientist / Data Engineer for two nationwide, longitudinal studies aimed at understanding brain & cognitive development in adolescents (ABCD Study) & newborn babies (HBCD Study).\n\n\n\n\nData Scientist/Engineer, J. Craig Venter Institute, Apr 2025 - present\nData Scientist/Engineer, UC San Diego, Aug 2023 - Mar 2025\nPostdoctoral Researcher, Stanford University, May 2022 - Oct 2023"
+    "text": "GitHub\n  \n  \n    \n     personal website\n  \n\n  \n  \n\n\nBiplabendu Das, known as Billu, obtained his Ph.D. in bioinformatics, following which he did postdoctoral research at Stanford University.\nBillu works as a Data Scientist / Data Engineer for two nationwide, longitudinal studies aimed at understanding brain & cognitive development in adolescents (ABCD Study) & newborn babies (HBCD Study).\n\n\n\n\nData Scientist/Engineer, J. Craig Venter Institute, Apr 2025 - present\nData Scientist/Engineer, UC San Diego, Aug 2023 - Mar 2025\nPostdoctoral Researcher, Stanford University, May 2022 - Oct 2023"
   },
   {
     "objectID": "about.html#who-is-working-with-you",
     "href": "about.html#who-is-working-with-you",
     "title": "BeepBoopStats",
     "section": "",
-    "text": "Biplabendu Das, fondly called BILLU, obtained his Ph.D. in bioinformatics, following which he did postdoctoral research at Stanford University.\nBillu works as a Data Scientist / Data Engineer for two nationwide, longitudinal studies aimed at understanding brain & cognitive development in adolescents (ABCD Study) & newborn babies (HBCD Study)."
+    "text": "Biplabendu Das, known as Billu, obtained his Ph.D. in bioinformatics, following which he did postdoctoral research at Stanford University.\nBillu works as a Data Scientist / Data Engineer for two nationwide, longitudinal studies aimed at understanding brain & cognitive development in adolescents (ABCD Study) & newborn babies (HBCD Study)."
   },
   {
     "objectID": "about.html#experience",
@@ -21,80 +49,24 @@
     "text": "Data Scientist/Engineer, J. Craig Venter Institute, Apr 2025 - present\nData Scientist/Engineer, UC San Diego, Aug 2023 - Mar 2025\nPostdoctoral Researcher, Stanford University, May 2022 - Oct 2023"
   },
   {
-    "objectID": "portfolio/website-personal/index.html",
-    "href": "portfolio/website-personal/index.html",
-    "title": "Personal Website",
-    "section": "",
-    "text": "Websites that fit your personal needs.\nClick here to go to the website."
-  },
-  {
-    "objectID": "portfolio/website-schedule/index.html",
-    "href": "portfolio/website-schedule/index.html",
-    "title": "Scheduling Website",
-    "section": "",
-    "text": "Websites that allow scheduling appointments.\nClick here to go to the website."
-  },
-  {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "What do we do?",
-    "section": "",
-    "text": "Our work falls into one of the three topics.\n\n\n\n\n\n\n\n\n\n\nTipDetails\n\n\n\n\n\nWe create and teach workshops on several topics:\n\nProgramming in R language\nBuild software package in R\nWeb development\nStatistical modelling\nBioinformatics and Network analyses\nTimeseries analyses\nVisualizing data into insights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipDetails\n\n\n\n\n\nWe lead or collaborate on projects with researchers on varying topics:\n\nSocial insect biology\nNatural History of birds\nBrain and cognitive development of new-born and adolescents humans\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTipDetails\n\n\n\n\n\nWe solve problems, from design to implementation. Some examples:\n\nComplete web ecosystem\nStatic spreadsheets -&gt; Interactive websites"
-  },
-  {
-    "objectID": "portfolio.html#teaching",
-    "href": "portfolio.html#teaching",
-    "title": "What do we do?",
-    "section": "",
-    "text": "TipDetails\n\n\n\n\n\nWe create and teach workshops on several topics:\n\nProgramming in R language\nBuild software package in R\nWeb development\nStatistical modelling\nBioinformatics and Network analyses\nTimeseries analyses\nVisualizing data into insights"
-  },
-  {
-    "objectID": "portfolio.html#research",
-    "href": "portfolio.html#research",
-    "title": "What do we do?",
-    "section": "",
-    "text": "TipDetails\n\n\n\n\n\nWe lead or collaborate on projects with researchers on varying topics:\n\nSocial insect biology\nNatural History of birds\nBrain and cognitive development of new-born and adolescents humans"
-  },
-  {
-    "objectID": "portfolio.html#consulting",
-    "href": "portfolio.html#consulting",
-    "title": "What do we do?",
-    "section": "",
-    "text": "TipDetails\n\n\n\n\n\nWe solve problems, from design to implementation. Some examples:\n\nComplete web ecosystem\nStatic spreadsheets -&gt; Interactive websites"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "BeepBoopStats",
     "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nWe specialize in providing data-driven solutions for real-time use.\nThis includes building tools such as:\n\nwebsites, for scheduling visits or monitoring your data regularly\ninteractive dashboards, to visualize/analyze your data in a flexible way\napplications, for real-time data gathering and analyses\nautomated data pipelines, from gathering data to visualizing patterns\n\nOther services include:\n\nstatistical analyses, to find patterns in data and devise interventions\ndata visualization, to identify complex patterns in data in a simple way\ndata workshops, for hands-on training for analyses and visualizations"
+    "text": "GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n  \n  \n\n\nWe turn research data into tools people use every day, built in R.\nWe build:\n\nwebsites, for scheduling visits or keeping an eye on your data\ninteractive dashboards, to explore and analyze your data flexibly\napplications, for gathering and analyzing data in real time\nautomated data pipelines, from collecting data to visualizing patterns\n\nWe also offer:\n\nstatistical analyses, to find patterns in data and plan interventions\ndata visualization, to make complex patterns easy to see\ndata workshops, with hands-on training in analysis and visualization"
   },
   {
-    "objectID": "index.html#your-data.-our-solutions.",
-    "href": "index.html#your-data.-our-solutions.",
+    "objectID": "index.html#websites-dashboards-and-workshops-for-research-teams",
+    "href": "index.html#websites-dashboards-and-workshops-for-research-teams",
     "title": "BeepBoopStats",
     "section": "",
-    "text": "We specialize in providing data-driven solutions for real-time use.\nThis includes building tools such as:\n\nwebsites, for scheduling visits or monitoring your data regularly\ninteractive dashboards, to visualize/analyze your data in a flexible way\napplications, for real-time data gathering and analyses\nautomated data pipelines, from gathering data to visualizing patterns\n\nOther services include:\n\nstatistical analyses, to find patterns in data and devise interventions\ndata visualization, to identify complex patterns in data in a simple way\ndata workshops, for hands-on training for analyses and visualizations"
+    "text": "We turn research data into tools people use every day, built in R.\nWe build:\n\nwebsites, for scheduling visits or keeping an eye on your data\ninteractive dashboards, to explore and analyze your data flexibly\napplications, for gathering and analyzing data in real time\nautomated data pipelines, from collecting data to visualizing patterns\n\nWe also offer:\n\nstatistical analyses, to find patterns in data and plan interventions\ndata visualization, to make complex patterns easy to see\ndata workshops, with hands-on training in analysis and visualization"
   },
   {
-    "objectID": "assets/contact/index.html",
-    "href": "assets/contact/index.html",
-    "title": "Contact",
-    "section": "",
-    "text": "You can reach us via email or on Linkedin.\n\nWe offer free consulation!\nLet’s meet to discuss your needs for a free, 30 min consultation.\n\n\n\n\n\n\nTipClick me to schedule an appointment."
-  },
-  {
-    "objectID": "portfolio/application-derbylive/index.html",
-    "href": "portfolio/application-derbylive/index.html",
-    "title": "Application",
-    "section": "",
-    "text": "Web application to gather and analyze data in real-time.\nClick here to try the app."
-  },
-  {
-    "objectID": "portfolio/dashboard-scientific/index.html",
-    "href": "portfolio/dashboard-scientific/index.html",
-    "title": "Scientific Dashboard",
-    "section": "",
-    "text": "Dashboard that enables analyses of multiple, large datasets.\nClick here to go to the dashboard."
+    "objectID": "index.html#recent-work",
+    "href": "index.html#recent-work",
+    "title": "BeepBoopStats",
+    "section": "Recent work",
+    "text": "Recent work\n\n\n\n\n\n\nR + Statistics Workshop\nA four-part series teaching R and statistics with longitudinal data, for research staff on the ABCD Study. No programming experience assumed.\n\nVisit site\nView code\n\n\n\n\nTeaching\n\nWebsite\n\n\n\n\n\n\n\n\n\nEco-Evo Jobs\nA searchable view of ecology and evolution job postings from the ecoevojobs.net spreadsheet, refreshed every day.\n\nVisit site\nView code\n\n\n\n\nResearch\n\nDashboard\n\n\n\n\n\n\n\n\n\nIUSSI-NAS DEIJ Committee\nWebsite for the diversity, equity, inclusion and justice committee of the IUSSI North American Section, with outreach programs and resources.\n\nVisit site\nView code\n\n\n\n\nConsulting\n\nWebsite\n\n\n\n\n\n\n\nNo matching items\n\nSee all projects and open-source tools"
   }
 ]
