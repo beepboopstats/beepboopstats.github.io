@@ -1,5 +1,6 @@
 ---
 title: "Our work"
+description: "Projects by BeepBoopStats: research websites, Shiny dashboards and apps, R workshops and open-source code, each linked to its live site and source."
 listing:
   - id: projects
     contents: projects.yml
@@ -12,6 +13,10 @@ page-layout: full
 format:
   html:
     toc: false
+include-in-header:
+  - text: |
+      <link rel="canonical" data-external="1" href="https://www.beepboopstats.com/portfolio.html">
+      <meta property="og:url" content="https://www.beepboopstats.com/portfolio.html">
 ---
 
 Websites, dashboards, apps and workshops built for research teams and communities. Each project links to the live site and, when the code is public, to its repository.

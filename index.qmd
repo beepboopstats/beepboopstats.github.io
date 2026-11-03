@@ -1,10 +1,31 @@
 ---
+pagetitle: "BeepBoopStats: websites, dashboards and workshops for research teams"
+description: "BeepBoopStats builds websites, interactive dashboards, apps and data pipelines for research teams, and teaches R and statistics workshops."
+include-in-header:
+  - text: |
+      <link rel="canonical" data-external="1" href="https://www.beepboopstats.com/">
+      <meta property="og:url" content="https://www.beepboopstats.com/">
+  - text: |
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "BeepBoopStats",
+        "url": "https://www.beepboopstats.com/",
+        "logo": "https://www.beepboopstats.com/assets/img/logo.png",
+        "email": "beepboopstats@gmail.com",
+        "description": "Websites, interactive dashboards, apps and data pipelines for research teams, plus R and statistics workshops.",
+        "founder": { "@type": "Person", "name": "Biplabendu Das", "url": "https://www.beepboopstats.com/about.html" },
+        "sameAs": ["https://github.com/beepboopstats", "https://www.linkedin.com/in/biplabendu"]
+      }
+      </script>
 about:
   template: trestles
   id: about-block
   image-width: 15em
   # image-shape: round
-  image: "assets/img/my_image.png"
+  image: "assets/img/logo.png"
+  image-alt: "BeepBoopStats logo: an ant with glasses working on a laptop atop an anthill, with charts in the background"
   links:
     - icon: github
       text: GitHub

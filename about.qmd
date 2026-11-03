@@ -1,10 +1,34 @@
 ---
+pagetitle: "About Biplabendu (Billu) Das – BeepBoopStats"
+description: "Biplabendu (Billu) Das runs BeepBoopStats. He has a Ph.D. in bioinformatics, was a postdoc at Stanford, and is a data scientist on the ABCD and HBCD studies."
+image: /assets/img/portrait.jpg
+twitter-card:
+  card-style: summary
+include-in-header:
+  - text: |
+      <link rel="canonical" data-external="1" href="https://www.beepboopstats.com/about.html">
+      <meta property="og:url" content="https://www.beepboopstats.com/about.html">
+  - text: |
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Biplabendu Das",
+        "alternateName": "Billu",
+        "jobTitle": "Data Scientist / Data Engineer",
+        "worksFor": { "@type": "Organization", "name": "J. Craig Venter Institute" },
+        "url": "https://www.beepboopstats.com/about.html",
+        "image": "https://www.beepboopstats.com/assets/img/portrait.jpg",
+        "sameAs": ["https://github.com/biplabendu", "https://www.linkedin.com/in/biplabendu", "https://biplabendu.github.io/homepage/"]
+      }
+      </script>
 about:
   template: trestles
   id: about-block
   image-width: 15em
   image-shape: round
-  image: "assets/img/dp2.jpeg"
+  image: "assets/img/portrait.jpg"
+  image-alt: "Portrait of Biplabendu (Billu) Das"
   links:
     - icon: github
       text: GitHub

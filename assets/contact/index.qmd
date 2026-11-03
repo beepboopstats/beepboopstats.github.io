@@ -1,8 +1,13 @@
 ---
 title: "Contact"
-format: 
+description: "Email BeepBoopStats or book a free 30-minute consultation about your research data, website or dashboard project."
+format:
   html:
     toc: false
+include-in-header:
+  - text: |
+      <link rel="canonical" data-external="1" href="https://www.beepboopstats.com/assets/contact/index.html">
+      <meta property="og:url" content="https://www.beepboopstats.com/assets/contact/index.html">
 ---
 
 Email us at [beepboopstats@gmail.com](mailto:beepboopstats@gmail.com), or find us on [LinkedIn](https://www.linkedin.com/in/biplabendu) and [GitHub](https://github.com/beepboopstats).

@@ -4,6 +4,12 @@ project:
   # only .qmd pages; keeps CLAUDE.md and other .md files off the site
   render:
     - "**/*.qmd"
+  # pages embed their images, so copy the ones referenced by absolute URL
+  # (social previews, structured data) into the published site
+  resources:
+    - assets/img/og-card.jpg
+    - assets/img/logo.png
+    - assets/img/portrait.jpg
 
 execute:
   # freeze: auto
@@ -12,7 +18,13 @@ execute:
   
 website:
   title: "BeepBoopStats"
+  # SEO: absolute URLs for the sitemap, canonical links and social previews
+  site-url: https://www.beepboopstats.com
+  description: "BeepBoopStats builds websites, interactive dashboards, apps and data pipelines for research teams, and teaches R and statistics workshops."
+  image: /assets/img/og-card.jpg
   open-graph: true
+  twitter-card:
+    card-style: summary_large_image
   google-analytics: "G-LXSX23EQ95"
   reader-mode: false
   page-footer: © Beep Boop Stats
