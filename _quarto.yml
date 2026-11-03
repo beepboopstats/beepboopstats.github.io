@@ -10,6 +10,9 @@ project:
     - assets/img/og-card.jpg
     - assets/img/logo.png
     - assets/img/portrait.jpg
+    - favicon.ico
+    - assets/img/favicons/android-chrome-192x192.png
+    - assets/img/favicons/apple-touch-icon.png
 
 execute:
   # freeze: auto
@@ -28,7 +31,7 @@ website:
   google-analytics: "G-LXSX23EQ95"
   reader-mode: false
   page-footer: © Beep Boop Stats
-  favicon: /assets/img/favicons/android-chrome-192x192.png
+  # favicon links live in assets/html/head.html (website.favicon gets inlined by embed-resources)
   # top nav
   navbar:
     pinned: true
@@ -69,5 +72,7 @@ format:
     code-overflow: wrap
     code-fold: true
     code-summary: "Show code"
+    include-in-header:
+      - file: assets/html/head.html
 
 format-links: []
