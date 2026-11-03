@@ -56,3 +56,5 @@ docs/
 /.quarto/
 assets/ssl/
 dev/
+# Playwright MCP screenshots/snapshots
+.playwright-mcp/

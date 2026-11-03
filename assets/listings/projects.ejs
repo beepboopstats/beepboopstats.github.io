@@ -1,0 +1,24 @@
+```{=html}
+<div class="list project-list">
+<% for (const item of items) { %>
+<article class="project" <%= metadataAttrs(item) %>>
+<a class="project-shot" href="<%- item.path %>" tabindex="-1" aria-hidden="true"><img src="<%- item.image %>" alt=""></a>
+<div class="project-body">
+<h3 class="project-title listing-title"><a href="<%- item.path %>"><%= item.title %></a></h3>
+<p class="project-desc listing-description"><%= item.description %></p>
+<p class="project-links">
+<a href="<%- item.path %>">Visit <%= item.categories && item.categories.includes('App') ? 'app' : 'site' %></a>
+<% if (item.code) { %><a href="<%- item.code %>">View code</a><% } %>
+</p>
+<% if (item.categories) { %>
+<div class="project-tags listing-categories">
+<% for (const category of item.categories) { %>
+<div class="listing-category" onclick="window.quartoListingCategory('<%= category %>'); return false;"><%= category %></div>
+<% } %>
+</div>
+<% } %>
+</div>
+</article>
+<% } %>
+</div>
+```

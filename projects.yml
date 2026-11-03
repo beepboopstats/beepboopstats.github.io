@@ -1,0 +1,77 @@
+# Featured projects, shown in this order (newest first) on the home and portfolio pages.
+# Fields: title, path (live site), code (public repo, optional), image, description, categories.
+- title: "R + Statistics Workshop"
+  path: https://www.beepboopstats.com/r-stats-workshop/
+  code: https://github.com/beepboopstats/r-stats-workshop
+  image: assets/img/projects/r-stats-workshop.jpg
+  description: "A four-part series teaching R and statistics with longitudinal data, for research staff on the ABCD Study. No programming experience assumed."
+  categories: [Teaching, Website]
+
+- title: "Eco-Evo Jobs"
+  path: https://www.beepboopstats.com/ecoevojobs/
+  code: https://github.com/beepboopstats/ecoevojobs
+  image: assets/img/projects/ecoevojobs.jpg
+  description: "A searchable view of ecology and evolution job postings from the ecoevojobs.net spreadsheet, refreshed every day."
+  categories: [Research, Dashboard]
+
+- title: "IUSSI-NAS DEIJ Committee"
+  path: https://www.beepboopstats.com/iussi-nas-deij/
+  code: https://github.com/beepboopstats/iussi-nas-deij
+  image: assets/img/projects/iussi-nas-deij.jpg
+  description: "Website for the diversity, equity, inclusion and justice committee of the IUSSI North American Section, with outreach programs and resources."
+  categories: [Consulting, Website]
+
+- title: "Derby Live"
+  path: https://biplabendu.shinyapps.io/derby-live/
+  code: https://github.com/beepboopstats/derby-live
+  image: assets/img/projects/derby-live.jpg
+  description: "A Shiny app for recording roller derby stats during a game: scores, jammers, blockers and penalties, charted jam by jam."
+  categories: [Consulting, App]
+
+- title: "Roller Derby Stats"
+  path: https://biplabendu.github.io/derby/
+  code: https://github.com/biplabendu/derby
+  image: assets/img/projects/derby.jpg
+  description: "Game statistics from the WFTDA Statsbook, plus a tracker that checks player eligibility before upcoming games."
+  categories: [Consulting, Website]
+
+- title: "Tree Rings"
+  path: https://www.beepboopstats.com/tree-rings/
+  code: https://github.com/beepboopstats/tree-rings
+  image: assets/img/projects/tree-rings.jpg
+  description: "Analysis and visualization of tree ring data sets, in collaboration with Alicia Formanack and Kiona Ogle."
+  categories: [Research, Website]
+
+- title: "Ant Data in SRA"
+  path: https://www.beepboopstats.com/ants/
+  code: https://github.com/beepboopstats/ants
+  image: assets/img/projects/ants.jpg
+  description: "Lists every ant genus and counts its sequencing data sets in the Sequence Read Archive. Rebuilt daily from Wikipedia and NCBI."
+  categories: [Research, Website]
+
+- title: "Bird Nesting Data"
+  path: https://www.beepboopstats.com/birds/
+  code: https://github.com/beepboopstats/birds
+  image: assets/img/projects/birds.jpg
+  description: "Clutch size, incubation and nestling periods for North American birds from All About Birds, in a table you can sort, filter and download."
+  categories: [Research, Website]
+
+- title: "Ant Gene Expression Dashboard"
+  path: https://biplabendu.shinyapps.io/CFlo_Daily_Gene_Expression/
+  image: assets/img/projects/gene-expression-dashboard.jpg
+  description: "Explore daily rhythms in gene expression across castes of the carpenter ant Camponotus floridanus, one gene at a time."
+  categories: [Research, Dashboard]
+
+- title: "WiFi Buddy"
+  path: https://wifibuddy.vercel.app
+  code: https://github.com/biplabendu/wifibuddy
+  image: assets/img/projects/wifibuddy.jpg
+  description: "Test the wifi at a cafe or public space and share the speed, so others know where to work."
+  categories: [App]
+
+- title: "Scheduling Website"
+  path: https://www.beepboopstats.com/scheduling-website/
+  code: https://github.com/beepboopstats/scheduling-website
+  image: assets/img/projects/scheduling-website.jpg
+  description: "A starter template for a personal website with appointment booking."
+  categories: [Consulting, Website]

@@ -6,6 +6,9 @@ about:
   image-shape: round
   image: "assets/img/dp2.jpeg"
   links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/biplabendu
     - icon: globe-americas
       text: personal website
       href: https://biplabendu.github.io/homepage/
@@ -14,7 +17,7 @@ about:
 ::: {#about-block}
 ## Who is working with you?
 
-Biplabendu Das, fondly called `BILLU`, obtained his Ph.D. in bioinformatics, 
+Biplabendu Das, known as Billu, obtained his Ph.D. in bioinformatics, 
 following which he did postdoctoral research at Stanford University. 
 
 Billu works as a Data Scientist / Data Engineer for two nationwide, 
