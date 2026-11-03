@@ -3,6 +3,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Inter:400italic,700italic,400,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400italic,700italic,400,700);
+@import url(https://fonts.googleapis.com/css2?family=Coustard:wght@400&display=swap);
 
 $font-family-sans-serif: "Inter";
 $font-family-monospace: "Source Code Pro";
@@ -16,6 +17,20 @@ $warning: #FF7F00;
 $danger: #E31A1C;
 
 /*-- scss:rules --*/
+
+// Slab display face echoing the logo wordmark; page titles, section headings and the site name only
+h1, h2, .navbar-title {
+  font-family: "Coustard", Georgia, serif;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+}
+
+// Coustard is wider than Inter; keep the full site name visible on phones
+@media (max-width: 575.98px) {
+  .navbar-title {
+    font-size: 1.05rem;
+  }
+}
 
 code {
   font-size: 0.9rem  !important;
