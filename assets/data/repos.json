@@ -1,0 +1,400 @@
+[
+  {
+    "name": "abcd-dictionary",
+    "html_url": "https://github.com/beepboopstats/abcd-dictionary",
+    "language": "HTML",
+    "pushed_at": "2026-07-07T06:33:24Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "ants",
+    "html_url": "https://github.com/beepboopstats/ants",
+    "description": "Stats from AntWiki",
+    "language": "R",
+    "pushed_at": "2026-10-14T12:17:48Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "babyshower",
+    "html_url": "https://github.com/beepboopstats/babyshower",
+    "description": "Test repo for our baby shower",
+    "language": "HTML",
+    "pushed_at": "2026-07-23T22:46:52Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "beepboopstats.github.io",
+    "html_url": "https://github.com/beepboopstats/beepboopstats.github.io",
+    "language": "R",
+    "pushed_at": "2026-11-03T03:14:35Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "birds",
+    "html_url": "https://github.com/beepboopstats/birds",
+    "language": "R",
+    "pushed_at": "2025-10-16T21:45:22Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "derby-live",
+    "html_url": "https://github.com/beepboopstats/derby-live",
+    "description": "App for realtime tracking of roller derby statistics",
+    "language": "R",
+    "pushed_at": "2026-05-19T21:26:32Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "ecoevojobs",
+    "html_url": "https://github.com/beepboopstats/ecoevojobs",
+    "description": "Interactive display of ecoevojobs",
+    "language": "R",
+    "pushed_at": "2026-11-02T22:32:51Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "iussi-nas-deij",
+    "html_url": "https://github.com/beepboopstats/iussi-nas-deij",
+    "description": "Website for IUSSI-NAS DEIJ activities",
+    "language": "R",
+    "pushed_at": "2026-10-02T19:06:53Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "r-stats-workshop",
+    "html_url": "https://github.com/beepboopstats/r-stats-workshop",
+    "description": "Four-part workshop series teaching R programming and statistics with longitudinal study data, for ABCD Study research staff",
+    "language": "R",
+    "pushed_at": "2026-11-03T03:09:59Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "scheduling-website",
+    "html_url": "https://github.com/beepboopstats/scheduling-website",
+    "language": "R",
+    "pushed_at": "2026-11-02T16:29:57Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "swrs",
+    "html_url": "https://github.com/beepboopstats/swrs",
+    "description": "For Deborah Gordon's field research in SWRS",
+    "language": "R",
+    "pushed_at": "2025-09-04T20:51:32Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "tree-rings",
+    "html_url": "https://github.com/beepboopstats/tree-rings",
+    "description": "Collaboration with Alicia Formanack and Kiona Ogle on analyses / visualization of tree ring data sets",
+    "language": "R",
+    "pushed_at": "2025-12-01T05:18:12Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "abcd-dictionary-chatbot",
+    "html_url": "https://github.com/biplabendu/abcd-dictionary-chatbot",
+    "description": "RAG based LLM chatbot to explore ABCD data dictionary",
+    "language": "Jupyter Notebook",
+    "pushed_at": "2026-02-09T17:38:29Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "abcd_fitbit_2026",
+    "html_url": "https://github.com/biplabendu/abcd_fitbit_2026",
+    "description": "Analyses of Fitbit scores in the ABCD study",
+    "language": "Jupyter Notebook",
+    "pushed_at": "2026-06-02T17:22:19Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "ants",
+    "html_url": "https://github.com/biplabendu/ants",
+    "description": "Stats from AntWiki",
+    "language": "R",
+    "pushed_at": "2026-11-02T16:35:07Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "ant_ppi",
+    "html_url": "https://github.com/biplabendu/ant_ppi",
+    "description": "In this repository we deposited the Supplementary data/script used in study \"Genome-wide inference of Camponotus floridanus protein-protein interaction network using homologous mapping and interacting domain profile pairs\".",
+    "language": "R",
+    "pushed_at": "2021-04-15T13:08:29Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "biplabendu",
+    "html_url": "https://github.com/biplabendu/biplabendu",
+    "description": "my profile",
+    "pushed_at": "2025-10-17T20:41:28Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "book",
+    "html_url": "https://github.com/biplabendu/book",
+    "pushed_at": "2021-02-07T05:42:11Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "Comparative-transcriptomics-of-ants",
+    "html_url": "https://github.com/biplabendu/Comparative-transcriptomics-of-ants",
+    "description": " Comparative transcriptomics reveals the conserved regulatory building blocks involved in the maintenance and parallel evolution of caste and other phenotypic traits in ants",
+    "language": "R",
+    "pushed_at": "2021-02-01T09:09:39Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "COVID19_India",
+    "html_url": "https://github.com/biplabendu/COVID19_India",
+    "language": "R",
+    "pushed_at": "2020-03-28T01:33:29Z",
+    "fork": false,
+    "archived": true
+  },
+  {
+    "name": "Das_et_al_2021",
+    "html_url": "https://github.com/biplabendu/Das_et_al_2021",
+    "language": "R",
+    "pushed_at": "2023-02-13T21:00:31Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "Das_et_al_2022a",
+    "html_url": "https://github.com/biplabendu/Das_et_al_2022a",
+    "description": "Fungal parasites - Timecourse RNASeq",
+    "language": "HTML",
+    "pushed_at": "2022-03-17T20:48:54Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "deBekker_and_Das_2021",
+    "html_url": "https://github.com/biplabendu/deBekker_and_Das_2021",
+    "description": "code to build and annotate circadian GCNs",
+    "language": "HTML",
+    "pushed_at": "2022-11-26T07:19:57Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "derby",
+    "html_url": "https://github.com/biplabendu/derby",
+    "description": "Statistics for roller derby obtained from the WFTDA Statsbook.",
+    "language": "HTML",
+    "pushed_at": "2026-11-02T16:29:29Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "empirical-JTK_CYCLE-with-asymmetry",
+    "html_url": "https://github.com/biplabendu/empirical-JTK_CYCLE-with-asymmetry",
+    "description": "This repository contains the code described in Hutchison, Maienschein-Cline, and Chiang et al. (2015) Improved statistical methods enable greater sensitivity in rhythm detection for genome-wide data. PLoS Comput Biol 11(3): e1004094. doi:10.1371/journal.pcbi.1004094",
+    "pushed_at": "2019-02-01T05:59:43Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "formica-methylation",
+    "html_url": "https://github.com/biplabendu/formica-methylation",
+    "description": "Using RRBS to study caste and development stage-specific methylation in the ant Formica exscecta ",
+    "language": "R",
+    "pushed_at": "2020-09-13T04:12:18Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "gha-workflows",
+    "html_url": "https://github.com/biplabendu/gha-workflows",
+    "pushed_at": "2025-06-08T22:05:29Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "homepage",
+    "html_url": "https://github.com/biplabendu/homepage",
+    "language": "R",
+    "pushed_at": "2025-06-05T23:46:49Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "Intro_R_Workshop_2021",
+    "html_url": "https://github.com/biplabendu/Intro_R_Workshop_2021",
+    "description": "workshop for teaching R to undergrad students",
+    "language": "R",
+    "pushed_at": "2021-06-28T16:50:22Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "limorhyde",
+    "html_url": "https://github.com/biplabendu/limorhyde",
+    "description": "LimoRhyde R package",
+    "pushed_at": "2019-08-30T16:31:54Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "manuscripts",
+    "html_url": "https://github.com/biplabendu/manuscripts",
+    "pushed_at": "2023-06-17T19:55:56Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "my_dummy_website",
+    "html_url": "https://github.com/biplabendu/my_dummy_website",
+    "description": "A dummy website created using RMarkdown and hosted on GitHub pages",
+    "language": "R",
+    "pushed_at": "2024-09-16T03:06:24Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "purrr-tutorial",
+    "html_url": "https://github.com/biplabendu/purrr-tutorial",
+    "description": "Materials for getting to the know the R package purrr",
+    "pushed_at": "2019-10-21T20:18:28Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "python-machine-learning-book-2nd-edition",
+    "html_url": "https://github.com/biplabendu/python-machine-learning-book-2nd-edition",
+    "description": "The \"Python Machine Learning (2nd edition)\" book code repository and info resource",
+    "pushed_at": "2020-10-01T06:20:21Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "recipe-chatbot",
+    "html_url": "https://github.com/biplabendu/recipe-chatbot",
+    "description": "Build a local RAG App with Ollama and ChromaDB in R Programming Language",
+    "language": "R",
+    "pushed_at": "2025-08-10T12:31:26Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "rhythm_detection_benchmark",
+    "html_url": "https://github.com/biplabendu/rhythm_detection_benchmark",
+    "language": "HTML",
+    "pushed_at": "2024-06-05T23:20:43Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "rmedicine-2024-bslib",
+    "html_url": "https://github.com/biplabendu/rmedicine-2024-bslib",
+    "description": "Next Generation Shiny Apps with bslib",
+    "pushed_at": "2024-07-24T17:23:01Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "rpackages",
+    "html_url": "https://github.com/biplabendu/rpackages",
+    "description": "R package development - the Leek group way!",
+    "pushed_at": "2018-06-18T14:28:28Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "sam_tutorial",
+    "html_url": "https://github.com/biplabendu/sam_tutorial",
+    "description": "SAM tutorial Fall 2023 (forked)",
+    "pushed_at": "2023-11-07T22:05:33Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "SDS375",
+    "html_url": "https://github.com/biplabendu/SDS375",
+    "description": "SDS 375 Data Visualization in R",
+    "pushed_at": "2021-02-23T01:48:51Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "shiny-chatbot-dictionary-abcd",
+    "html_url": "https://github.com/biplabendu/shiny-chatbot-dictionary-abcd",
+    "description": "Shiny app that allows searching the ABCD data dictionary of released variables using semantic search",
+    "language": "R",
+    "pushed_at": "2026-07-07T22:39:26Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "Shiny_apps",
+    "html_url": "https://github.com/biplabendu/Shiny_apps",
+    "language": "R",
+    "pushed_at": "2021-06-09T03:22:17Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "TidyTuesday",
+    "html_url": "https://github.com/biplabendu/TidyTuesday",
+    "description": "#TidyTuesday submissions",
+    "pushed_at": "2022-01-20T11:18:07Z",
+    "fork": true,
+    "archived": false
+  },
+  {
+    "name": "timecourseRnaseq",
+    "html_url": "https://github.com/biplabendu/timecourseRnaseq",
+    "description": "Analyses And Visualisation Of Timecourse RNASeq Data",
+    "language": "R",
+    "pushed_at": "2026-02-16T21:25:03Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "timecourse_geneexpression_data",
+    "html_url": "https://github.com/biplabendu/timecourse_geneexpression_data",
+    "description": "Datasets compiled and published by Laloum and Robinson-Rechavi",
+    "language": "R",
+    "pushed_at": "2026-11-02T16:26:19Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "wifibuddy",
+    "html_url": "https://github.com/biplabendu/wifibuddy",
+    "description": "Community-tracked wifi speeds of public cafes and spaces",
+    "language": "HTML",
+    "pushed_at": "2026-06-20T15:53:20Z",
+    "fork": false,
+    "archived": false
+  },
+  {
+    "name": "Will_et_al_2020",
+    "html_url": "https://github.com/biplabendu/Will_et_al_2020",
+    "description": "This repository contains annotated code for the function that performs functional enrichment analysis of GO/PFAM terms using a hypergeometric test, used in Will et al. 2020",
+    "language": "R",
+    "pushed_at": "2023-01-27T07:11:58Z",
+    "fork": false,
+    "archived": false
+  }
+]
