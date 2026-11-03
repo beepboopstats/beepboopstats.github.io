@@ -1,5 +1,5 @@
 ---
-pagetitle: "BeepBoopStats: websites, dashboards and workshops for research teams"
+pagetitle: "Websites, dashboards and workshops for research teams"
 description: "BeepBoopStats builds websites, interactive dashboards, apps and data pipelines for research teams, and teaches R and statistics workshops."
 include-in-header:
   - text: |
@@ -17,6 +17,16 @@ include-in-header:
         "description": "Websites, interactive dashboards, apps and data pipelines for research teams, plus R and statistics workshops.",
         "founder": { "@type": "Person", "name": "Biplabendu Das", "url": "https://www.beepboopstats.com/about.html" },
         "sameAs": ["https://github.com/beepboopstats", "https://www.linkedin.com/in/biplabendu"]
+      }
+      </script>
+  - text: |
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "BeepBoopStats",
+        "alternateName": ["Beep Boop Stats", "beepboopstats"],
+        "url": "https://www.beepboopstats.com/"
       }
       </script>
 about:

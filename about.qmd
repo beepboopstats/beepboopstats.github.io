@@ -1,5 +1,5 @@
 ---
-pagetitle: "About Biplabendu (Billu) Das – BeepBoopStats"
+pagetitle: "About Biplabendu (Billu) Das"
 description: "Biplabendu (Billu) Das runs BeepBoopStats. He has a Ph.D. in bioinformatics, was a postdoc at Stanford, and is a data scientist on the ABCD and HBCD studies."
 image: /assets/img/portrait.jpg
 twitter-card:

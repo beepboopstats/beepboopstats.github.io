@@ -29,5 +29,7 @@ Never read, open, move, or commit `assets/ssl/` (contains a private key), `.Renv
 
 ## SEO
 - Site-wide description, preview image (`assets/img/og-card.jpg`, 1200×630) and Twitter card live under `website:` in `_quarto.yml`; each page sets its own `description` (and `pagetitle` where it has no title).
+- The CI build's Quarto appends " – BeepBoopStats" to every `pagetitle` (local Quarto 1.4 doesn't), so never put the brand in `pagetitle`.
+- Favicons are linked from `assets/html/head.html` as real files (root `favicon.ico` plus `assets/img/favicons/`), not via `website.favicon`, which embed-resources inlines as a `data:` URL that Google can't use. The home page's `WebSite` JSON-LD sets the site name Google shows.
 - Every page sets `<link rel="canonical">` and `og:url` via `include-in-header`. The canonical link must keep `data-external="1"`: `embed-resources: true` otherwise downloads the live page and inlines it (~10 MB).
 - Pages embed their images, so any image referenced by absolute URL (preview images, the JSON-LD `logo`/`image`) must also be listed under `project.resources` or it 404s on the live site. Use root-relative paths (`/assets/...`) for `image:`.
